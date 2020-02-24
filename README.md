@@ -1,2 +1,6 @@
-# node_practice
-Just getting started with node
+# Node Practice
+
+First time writing code in Node.
+
+
+
